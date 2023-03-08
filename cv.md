@@ -1,13 +1,18 @@
 # Alla Sarosek  
 ![cv-photo](cv-photo.jpg)
 ## Junior Frontend Developer
-_I am an aspiring JavaScript web developer looking for a job or internship. I' m just a person, who wants to  become a great developer and change his life for the better._
+_I am an aspiring JavaScript web developer. I' m just a person, who wants to  become a great developer and change his life for the better._
 ### CONTACTS
 ***
-- +375(25)908-47-04
-- @YazhovaAlla#1173 (Discord)
-- agate9898@gmail.com
-- https://www.linkedin.com/in/alla-sarosek-a66753243
+**Phone:** +375(25)908-47-04
+
+**Telegram:** @al_vozhik
+
+**Discord:** @YazhovaAlla#1173
+
+**Email:** agate9898@gmail.com
+
+**LinkedIn:** https://www.linkedin.com/in/alla-sarosek-a66753243
 ### EDUCATION
 ***
  
@@ -21,11 +26,20 @@ Medical diagnostics (sep 2015 - oct 2019)
 - Professional course JavaScript Web Application Development (2021 - 2022)
 ### SKILLS
 ***
-- HTML 
-- CSS
+- HTML5, CSS3
+- VS Code, IntelliJ IDEA
 - JavaScript
-- Vue 
+- Vue3
 - GitHub
+
+### CODE EXAMPLE
+***
+
+```
+function filter_list(l) {
+ return l.filter(item => Number.isInteger(item) == true && item >= 0)
+}
+```
 ### EXPERIENCE
 ***
 I create my own web applications in my spare time, which can be found on GitHub:
@@ -35,5 +49,6 @@ I create my own web applications in my spare time, which can be found on GitHub:
 ### LANGUAGES
 ***
 English - B1(intermediate)
+I have some speaking practice with my friends from Australia and India.
 
 Russian - native
